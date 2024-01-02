@@ -2,6 +2,7 @@
 
 #1 - Printing Hello World.
 print('Hello World!')
+
 #2 - Adding numbers.
 n1 = 2
 n2 = 3
